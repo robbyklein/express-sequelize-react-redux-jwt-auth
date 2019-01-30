@@ -1,11 +1,9 @@
-# SuperTrack
+# Express/Sequelize/React/Redux JWT Auth
 
-## Todos
+Authentication system with:
 
-### Database
-- Download all images
-- Fetch all descriptions
-
-### Builder
-- Filters
-- Details
+- Login
+- Logout
+- Signup
+- Confirm Email
+- Reset Password
